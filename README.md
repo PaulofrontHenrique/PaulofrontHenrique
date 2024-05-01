@@ -1,16 +1,33 @@
-### Hi there 👋
+# 🪐💻 Sobre
+[![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30¢er=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Paulo+Henrique.)](https://git.io/typing-svg)
 
-<!--
-**PaulofrontHenrique/PaulofrontHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:one:  Sou estudante de Ciência da Computação;<br/>
+:two:  Hoje meu foco é ingressar na área de dados;<br/>
+:three:  Apaixonado por astronomia;<br/>
+:four:  Possuo projetos da faculdade em algumas linguagens de programação;<br/>
+:five:  Extremamente motivado, em constante desenvolvimento de minhas habilidades e crescimento profissional.</a><br/><br>
 
-Here are some ideas to get you started:
+  # 👨‍💻 Linguagens
+ <div>
+  <img align="center" alt="Paulo-Python" height="30" width="90" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Paulo-C" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="Paulo-C#" height="30" width="70" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Paulo-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Paulo-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Paulo-Excel" height="30" width="110" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img align="center" alt="Paulo-Colab" height="30" width="90" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+  <img align="center" alt="Paulo-Colab" height="30" width="90" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+  <img align="center" alt="Paulo-Canva" height="30" width="90" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+  <img align="center" alt="Paulo-Colab" height="30" width="90" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗣 Redes Sociais
+
+<div> 
+  <a href="https://www.linkedin.com/in/paulofronthenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/_pauliiinn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
+
+# 📊 GitHub Stats:
+
+![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulofrontHenrique&show_icons=true&theme=transparent)
