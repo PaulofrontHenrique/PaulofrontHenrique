@@ -3,9 +3,8 @@
 
 :one:  Sou estudante de Ciência da Computação;<br/>
 :two:  Hoje meu foco é ingressar na área de Front-end;<br/>
-:three:  Apaixonado por astronomia;<br/>
-:four:  Possuo projetos da faculdade em algumas linguagens de programação;<br/>
-:five:  Extremamente motivado, em constante desenvolvimento de minhas habilidades e crescimento profissional.</a><br/><br>
+:three:  Possuo projetos da faculdade em algumas linguagens de programação;<br/>
+:four:  Extremamente motivado, em constante desenvolvimento de minhas habilidades e crescimento profissional.</a><br/><br>
 
   # 👨‍💻 Linguagens
  <div>
@@ -24,7 +23,6 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/paulofronthenrique/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/_pauliiinn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
 # 📊 GitHub Stats:
