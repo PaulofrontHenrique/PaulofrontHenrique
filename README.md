@@ -2,7 +2,7 @@
 [![ Digitando SVG ](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30¢er=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Paulo+Henrique.)](https://git.io/typing-svg)
 
 :one:  Sou estudante de Ciência da Computação;<br/>
-:two:  Hoje meu foco é coninuar me desenvolvendo na área de suporte;<br/>
+:two:  Hoje meu foco é continuar me desenvolvendo na área de suporte;<br/>
 :three:  Possuo projetos da faculdade em algumas linguagens de programação;<br/>
 :four:  Extremamente motivado, em constante desenvolvimento de minhas habilidades e crescimento profissional.</a><br/><br>
 
